@@ -1,0 +1,8 @@
+Timestamp,first_name,Age,income,orders_30d,spend_30d,purchase_categories,device_used,purchase_trigger,delivery_speed
+10/2/2025 11:17:23,Marta,29,25000,1-2,51-150,"Food/Groceries, Learning (books/courses/software), Household/Appliances/Cleaning",Laptop/Desktop,I needed it,Moderately important
+10/2/2025 11:18:07,Jonas,34,60000,3-5,151-300,"Food/Groceries, Apparel/Accessories, Household/Appliances/Cleaning",Phone,I needed it,Extremely important
+10/2/2025 11:19:54,Aisha,26,45000,6-10,300+,"Apparel/Accessories, Electronics/Hardware",Phone,I saw a sale/discount,Very important
+10/2/2025 11:20:32,Levi,31,50000,3-5,151-300,"Food/Groceries, Household/Appliances/Cleaning",Laptop/Desktop,I needed it,Very important
+10/2/2025 11:21:22,Petra,22,15000,1-2,51-150,"Food/Groceries, Apparel/Accessories",Phone,Boredom/impulse,Slightly important
+10/2/2025 11:22:05,Carlos,37,55000,1-2,51-150,"Electronics/Hardware, Learning (books/courses/software)",Laptop/Desktop,I saw a sale/discount,Moderately important
+10/2/2025 11:22:51,Sara,28,30000,1-2,1-50,"Apparel/Accessories, Learning (books/courses/software)",Laptop/Desktop,I saw a sale/discount,Moderately important
